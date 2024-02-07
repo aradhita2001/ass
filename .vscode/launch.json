@@ -1,0 +1,321 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ArrayListDemo",
+            "request": "launch",
+            "mainClass": "CollectionsDemo.ArrayListDemo",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "BankDriver",
+            "request": "launch",
+            "mainClass": "Interface.BankDriver",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Lambda",
+            "request": "launch",
+            "mainClass": "Lambda",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "jdbcdemo1",
+            "request": "launch",
+            "mainClass": "jdbcdemo1",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListReverse",
+            "request": "launch",
+            "mainClass": "ArrayListReverse",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "ComparatorDemo",
+            "request": "launch",
+            "mainClass": "CollectionsDemo.ComparatorDemo",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "ComparatorDemo",
+            "request": "launch",
+            "mainClass": "Collections.ComparatorDemo",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "CompareToDemo",
+            "request": "launch",
+            "mainClass": "Collections.CompareToDemo",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "HashMapDemo",
+            "request": "launch",
+            "mainClass": "Collections.HashMapDemo",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "TreeSetDemo",
+            "request": "launch",
+            "mainClass": "Collections.TreeSetDemo",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "HashSetDemo",
+            "request": "launch",
+            "mainClass": "Collections.HashSetDemo",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionDemo",
+            "request": "launch",
+            "mainClass": "Exceptions.ExceptionDemo",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "ListWithObject",
+            "request": "launch",
+            "mainClass": "Collections.ListWithObject",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "LinkedListDemo",
+            "request": "launch",
+            "mainClass": "Collections.LinkedListDemo",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListDemo",
+            "request": "launch",
+            "mainClass": "Collections.ArrayListDemo",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "AutoUnBoxing",
+            "request": "launch",
+            "mainClass": "Collections.AutoUnBoxing",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "IntegerTryouts",
+            "request": "launch",
+            "mainClass": "IntegerTryouts",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "BankDriver",
+            "request": "launch",
+            "mainClass": "Interface.BankDriver",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "TestBank",
+            "request": "launch",
+            "mainClass": "Abstract.TestBank",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "B1",
+            "request": "launch",
+            "mainClass": "Inheritance.B1",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "VehicleDriver",
+            "request": "launch",
+            "mainClass": "Inheritance.VehicleDriver",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "AnimalDriver",
+            "request": "launch",
+            "mainClass": "Inheritance.AnimalDriver",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Driver",
+            "request": "launch",
+            "mainClass": "Inheritance.Driver",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Programmer",
+            "request": "launch",
+            "mainClass": "Inheritance.Programmer",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "OverLoadingTryOut",
+            "request": "launch",
+            "mainClass": "OOPs.OverLoadingTryOut",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "EmployeeDriver",
+            "request": "launch",
+            "mainClass": "OOPs.EmployeeDriver",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "MatrixClone",
+            "request": "launch",
+            "mainClass": "ArraysExample.MatrixClone",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "OverLoadingDriver",
+            "request": "launch",
+            "mainClass": "OOPs.OverLoadingDriver",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "ArrayCopy",
+            "request": "launch",
+            "mainClass": "ArraysExample.ArrayCopy",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "StaticExampleRunner",
+            "request": "launch",
+            "mainClass": "OOPs.StaticExampleRunner",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "CustomerRunner",
+            "request": "launch",
+            "mainClass": "OOPs.CustomerRunner",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "AddressRunner",
+            "request": "launch",
+            "mainClass": "OOPs.AddressRunner",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "InputOutputMatrix",
+            "request": "launch",
+            "mainClass": "class080124.InputOutputMatrix",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "ArraySum",
+            "request": "launch",
+            "mainClass": "class080124.ArraySum",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "CompatibleArray",
+            "request": "launch",
+            "mainClass": "CompatibleArray",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Input",
+            "request": "launch",
+            "mainClass": "Input",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "SringFormat",
+            "request": "launch",
+            "mainClass": "SringFormat",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "EqualsDemo",
+            "request": "launch",
+            "mainClass": "EqualsDemo",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "name": "Test App",
+            "program": "${workspaceFolder}/__m.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "postDebugTask": "Test App",
+            "type": "pwa-node"
+        },
+        {
+            "name": "Submit App",
+            "program": "${workspaceFolder}/__m.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "postDebugTask": "Submit App",
+            "type": "pwa-node"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-HelloworldApplication<helloworld>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.helloworld.HelloworldApplication",
+            "projectName": "helloworld",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-UserApplication<user>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.user.UserApplication",
+            "projectName": "user",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-JpaFirstProjectApplication<jpa-first-project>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.jpafirstproject.JpaFirstProjectApplication",
+            "projectName": "jpa-first-project",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
